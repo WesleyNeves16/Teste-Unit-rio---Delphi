@@ -37,7 +37,7 @@ type
 implementation
 
 uses
-  System.SysUtils;//, Delphi.Mocks;
+  System.SysUtils;
 
 procedure TMyTestObject.Insert;
 begin
